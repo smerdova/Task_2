@@ -1,0 +1,5 @@
+BASE_URL = "https://stellarburgers.education-services.ru"
+REGISTER_URL = BASE_URL + "/api/auth/register"
+LOGIN_URL = BASE_URL + "/api/auth/login"
+ORDER_URL = BASE_URL + "/api/orders"
+USER_URL = BASE_URL + "/api/auth/user"
